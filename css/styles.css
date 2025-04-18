@@ -800,6 +800,7 @@ img:hover {
 .therapy-content p {
   color: var(--marsala);
   font-size: 0.9rem;
+  text-align: center;
 }
 
 /* Education Section */
